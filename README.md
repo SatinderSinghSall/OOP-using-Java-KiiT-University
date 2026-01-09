@@ -247,7 +247,3 @@ If this roadmap helped you:
 ---
 
 ### ✨ “Good software is built twice — first in the mind, then in code.”
-
-```
-
-```
