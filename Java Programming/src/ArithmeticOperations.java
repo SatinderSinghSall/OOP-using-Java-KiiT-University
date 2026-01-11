@@ -14,12 +14,12 @@ public class ArithmeticOperations {
 
         int sum = num1 + num2;
         int product = num1 * num2;
-        int remender = num1 / num2;
-        int division = num1 % num2;
+        int remender = num1 % num2;
+        int division = num1 / num2;
 
         System.out.println("Sum of " + num1 + " + " + num2 + " = " + sum);
         System.out.println("Product of " + num1 + " * " + num2 + " = " + product);
-        System.out.println("Remender of " + num1 + " / " + num2 + " = " + remender);
-        System.out.println("Division of " + num1 + " % " + num2 + " = " + division);
+        System.out.println("Remender of " + num1 + " % " + num2 + " = " + remender);
+        System.out.println("Division of " + num1 + " / " + num2 + " = " + division);
     }
 }
