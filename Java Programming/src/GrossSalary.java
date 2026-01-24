@@ -1,5 +1,12 @@
 // Gross Salary Calculation:
 
+/* 
+  WAP in JAVA to input basic salary and to compute Gross salary of an
+  employee if salary is less than 12000 then HRA will be 20%, and DA will
+  be 115% of Basic salary otherwise HRA will be 15% and DA will be 90% of
+  Basic salary.
+*/
+
 import java.util.Scanner;
 
 public class GrossSalary {
@@ -28,4 +35,3 @@ public class GrossSalary {
         sc.close();
     }
 }
-

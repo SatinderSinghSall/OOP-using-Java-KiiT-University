@@ -1,5 +1,15 @@
 // Fahrenheit ↔ Celsius Conversion
 
+/*
+  Convert the temperature readings given in degree Fahrenheit to degree
+  Celsius, using the following formula :
+  C = (5/9) * (F - 32)
+  Test these values in degree Fahrenheit: 68, 150, 212, 0, -22, -200.
+  Output: The  Celsius value for the Farenheit value 68 is  _
+  Input some values to convert Celsius to Fahrenheit.
+  Output: The Farenhit value for the Celsius value  _ is  _
+*/
+
 import java.util.Scanner;
 
 public class TempConversion {

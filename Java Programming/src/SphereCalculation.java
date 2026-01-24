@@ -1,5 +1,11 @@
 // Volume and Surface Area of Sphere:
 
+/*
+  Calculate the volume and surface area of a sphere using the following
+  formula: A = 4 πr2 / V= 4/3 πr3 / π=3.14159
+  Test the program for the given radius: 1, 6, 12.2,0.2.
+*/
+
 public class SphereCalculation {
     public static void main(String[] args) {
         double pi = 3.14159;

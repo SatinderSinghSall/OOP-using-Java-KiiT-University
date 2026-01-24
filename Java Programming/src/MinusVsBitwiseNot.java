@@ -1,5 +1,9 @@
 // Difference Between - and ~ Operators:
 
+/*
+  WAP to observe the difference between – and ~ operators.
+*/
+
 import java.util.Scanner;
 
 public class MinusVsBitwiseNot {

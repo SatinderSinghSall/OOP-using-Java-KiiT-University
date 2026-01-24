@@ -1,5 +1,10 @@
 // Smaller and Greater Using Ternary Operator:
 
+/*
+  WAP in JAVA to find the smaller and greater number among two
+  numbers  using ternary operator.
+*/
+
 import java.util.Scanner;
 
 public class MinMaxTernary {

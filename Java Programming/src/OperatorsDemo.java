@@ -1,5 +1,10 @@
 // Use of ++, -- and Assignment Operators:
 
+/*
+  Write a program to show the use of ++, -- and different assignment
+  operators.
+*/
+
 public class OperatorsDemo {
     public static void main(String[] args) {
         int a = 10;
